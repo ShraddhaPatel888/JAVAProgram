@@ -10,10 +10,6 @@ public class hellowold {
         System.out.println(2*2);
         System.out.println(2/2);
 
-        //Shortcut for main method is main
-        //Shortcut for main System.out.println is sout
-        //Shortcut for duplicate is ctrl+d
 
-        // exit code 0 -> successfully run
     }
 }
