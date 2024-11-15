@@ -1,5 +1,3 @@
-package ClassNames;
-
 public class Shortcuts {
     //Shortcut for main method is main
     //Shortcut for main System.out.println is sout
