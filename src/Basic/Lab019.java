@@ -25,7 +25,7 @@ public class Lab019 {
         switch((int) d){
 
         }
-       // boolean b = true;
+       // boolean b = true;   // not allow
         //switch(b) {  }
 
         long all = 30l;
