@@ -29,7 +29,7 @@ public class Pro011 {
         } else {
             System.out.println(year + " is not a leap year.");
         }
-
+            // other logic if((year % 4 ==0 &&SS year % 100 !==0) || year % 400 == 0)
         scanner.close();
     }
 
